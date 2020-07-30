@@ -1,0 +1,210 @@
+body, html {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}
+
+.bg-img{
+  background-image: url("https://images4.alphacoders.com/210/thumb-1920-210266.jpg");
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-imgG{
+  background-image: url("https://eskipaper.com/images/autumn-wallpaper-21.jpg");
+   width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bg-imgS{
+  background-image: url("https://i.pinimg.com/originals/b9/35/e8/b935e82b4d95545846eb9f35b9c08afe.jpg");
+   width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-imgL{
+  background-image: url("https://i.pinimg.com/originals/d2/3d/73/d23d73b4effe3f4a72cb128dbd075585.jpg");
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bg-imgA{
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/573/510/531/nature-animals-lion-big-cats-elephant-hd-wallpaper-preview.jpg");
+  width: 100%;
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  position: absolute;
+  margin: 10px;
+  width: auto;
+}
+
+#pets{
+	width: 700px;
+	height: 300px;
+}
+
+.topnav {
+  overflow: hidden;
+  background-color: #333;
+}
+
+.topnav a {
+  float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+.d-flex button{
+	margin:1.5em 0.5em;
+	padding:0.3em 1.3em;
+}
+
+.d-flex table{
+	margin:1em 10em;
+}
+
+table.btnedit{
+	color:blue;
+	cursor:pointer;
+}
+
+.success{
+	background-color: lightgreen;
+	padding:1em;
+}
+
+.error{
+	background-color: tomato;
+	padding: 1em;
+}
+
+#img-admin{
+	width: 150px;
+	height: 150px;
+}
+
+.pets{
+	height: 300px;
+  width: 100%;
+  border-radius: 20px 0px 20px 0px;
+}
+
+.card{
+  width: 430px;
+  margin-left: 180px;
+  margin-bottom: 50px;
+}
+
+.header{
+  width: 100%;
+  margin:50px auto 0px;
+  color: white;
+  background: #5F9EA0;
+  text-align: center;
+  border:1px solid #B0C4DE;
+  border-bottom: none;
+  border-radius: 20px 20px 0px 0px;
+  padding: 20px;
+  margin-top: 300px;
+}
+
+#form1{
+  width: 100%;
+  margin: 0px auto;
+  padding: 20px;
+  border:1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 20px 20px;
+}
+
+#form2{
+  width: 100%;
+  margin: 0px auto;
+  padding: 20px;
+  border:1px solid #B0C4DE;
+  background: white;
+  border-radius: 0px 0px 20px 20px;
+}
+
+.input-group{
+  margin:10px  0px  10px  0px;
+}
+
+.input-group label{
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+
+.input-group input{
+  height: 50px;
+  width: 93%;
+  padding:5px 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border:1px solid gray;
+}
+
+.btnR{
+  padding:20px;
+  font-size: 20px;
+  color: white;
+  background: #5F9EA0;
+  border:none;
+  border-radius: 5px;
+}
+
+.btnL{
+  padding:20px;
+  font-size: 20px;
+  color: white;
+  background: #5F9EA0;
+  border:none;
+  border-radius: 5px;
+}
+
+.logreg{
+  display: flex;
+  justify-content: space-around;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background: linear-gradient(to right, #b92b27, #1565c0);
+    font-size: 200%;
+}
+
+.hText{
+  text-align: center;
+  color: white;
+  font-size: 1.5em;
+  margin-top: 30px;
+  margin-left: -100px;
+}
+
